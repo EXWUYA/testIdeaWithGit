@@ -1,0 +1,9 @@
+[INFO ] 2020-08-13 22:58:03.504 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 7664 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-13 22:58:03.507 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-13 22:58:04.882 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-13 22:58:04.961 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-13 22:58:05.799 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.781 seconds (JVM running for 3.675)
+[INFO ] 2020-08-13 22:58:06.190 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-13 22:58:06.362 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-13 22:58:06.371 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-13 22:58:06.372 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'

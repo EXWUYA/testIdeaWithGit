@@ -1,0 +1,388 @@
+[INFO ] 2020-08-15 14:04:20.315 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 10388 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:04:20.316 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:04:22.530 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:04:22.627 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:04:23.962 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 4.517 seconds (JVM running for 5.327)
+[INFO ] 2020-08-15 14:04:24.788 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 14:04:25.142 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 14:04:25.180 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 14:04:25.181 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:05:05.006 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 11336 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:05:05.009 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:05:05.916 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:05:05.923 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:05:05.924 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:05:05.924 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:05:05.925 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:05:05.926 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:05:05.926 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:05:05.969 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:05:06.045 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:05:06.045 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 1004 ms
+[INFO ] 2020-08-15 14:05:06.240 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:05:06.277 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:05:06.799 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:05:06.831 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:05:06.834 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.195 seconds (JVM running for 2.921)
+[INFO ] 2020-08-15 14:05:13.735 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:05:13.736 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:05:13.765 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 29 ms
+[INFO ] 2020-08-15 14:07:40.545 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 9176 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:07:40.548 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:07:41.297 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:07:41.303 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:07:41.303 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:07:41.303 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:07:41.304 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:07:41.305 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:07:41.305 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:07:41.307 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:07:41.376 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:07:41.377 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 791 ms
+[INFO ] 2020-08-15 14:07:41.570 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:07:41.611 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:07:42.085 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:07:42.103 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:07:42.106 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.876 seconds (JVM running for 2.447)
+[INFO ] 2020-08-15 14:08:02.680 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:08:02.681 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:08:02.686 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 4 ms
+[INFO ] 2020-08-15 14:18:12.483 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 21324 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:18:12.485 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:18:14.105 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:18:14.116 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:18:14.117 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:18:14.117 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:18:14.120 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:18:14.121 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:18:14.121 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:18:14.124 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:18:14.238 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:18:14.238 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 1723 ms
+[INFO ] 2020-08-15 14:18:14.606 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:18:14.687 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:18:15.488 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:18:15.530 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:18:15.536 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 3.343 seconds (JVM running for 5.067)
+[INFO ] 2020-08-15 14:18:23.155 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:18:23.155 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:18:23.163 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 7 ms
+[INFO ] 2020-08-15 14:23:27.607 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-0} closing ...
+[INFO ] 2020-08-15 14:23:27.607 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:23:29.601 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 11640 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:23:29.606 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:23:30.297 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:23:30.303 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:23:30.303 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:23:30.303 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:23:30.304 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:23:30.305 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:23:30.305 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:23:30.307 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:23:30.381 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:23:30.381 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 737 ms
+[INFO ] 2020-08-15 14:23:30.584 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:23:30.627 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:23:31.118 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:23:31.137 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:23:31.140 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.869 seconds (JVM running for 2.514)
+[INFO ] 2020-08-15 14:23:34.753 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:23:34.754 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:23:34.759 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 5 ms
+[INFO ] 2020-08-15 14:25:40.828 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 6228 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:25:40.831 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:25:41.521 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:25:41.527 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:25:41.527 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:25:41.528 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:25:41.528 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:25:41.529 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:25:41.529 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:25:41.531 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:25:41.600 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:25:41.601 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 737 ms
+[INFO ] 2020-08-15 14:25:41.801 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:25:41.849 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:25:42.363 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:25:42.377 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:25:42.380 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.894 seconds (JVM running for 2.457)
+[INFO ] 2020-08-15 14:25:46.032 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:25:46.033 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:25:46.038 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 3 ms
+[INFO ] 2020-08-15 14:26:26.941 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 16072 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:26:26.946 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:26:27.668 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:26:27.679 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:26:27.680 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:26:27.680 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:26:27.681 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:26:27.681 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:26:27.682 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:26:27.684 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:26:27.756 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:26:27.756 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 749 ms
+[INFO ] 2020-08-15 14:26:27.963 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:26:28.007 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:26:28.528 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:26:28.546 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:26:28.548 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.097 seconds (JVM running for 2.653)
+[INFO ] 2020-08-15 14:27:17.479 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:27:17.481 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:27:17.486 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 5 ms
+[INFO ] 2020-08-15 14:27:44.343 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 21452 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:27:44.345 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:27:45.069 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:27:45.075 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:27:45.076 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:27:45.076 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:27:45.077 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:27:45.077 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:27:45.077 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:27:45.080 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:27:45.148 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:27:45.148 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 770 ms
+[INFO ] 2020-08-15 14:27:45.344 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:27:45.388 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:27:45.877 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:27:45.894 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:27:45.896 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.868 seconds (JVM running for 2.414)
+[INFO ] 2020-08-15 14:27:49.639 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:27:49.642 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:27:49.646 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 4 ms
+[INFO ] 2020-08-15 14:29:32.321 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 17792 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:29:32.323 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:29:33.066 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:29:33.072 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:29:33.073 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:29:33.073 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:29:33.074 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:29:33.074 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:29:33.074 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:29:33.077 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:29:33.144 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:29:33.145 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 791 ms
+[INFO ] 2020-08-15 14:29:33.334 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:29:33.375 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:29:33.847 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:29:33.865 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:29:33.868 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.848 seconds (JVM running for 2.365)
+[INFO ] 2020-08-15 14:29:46.442 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:29:46.443 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:29:46.448 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 4 ms
+[INFO ] 2020-08-15 14:30:26.476 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 20792 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:30:26.479 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:30:27.217 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:30:27.223 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:30:27.224 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:30:27.224 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:30:27.225 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:30:27.225 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:30:27.226 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:30:27.228 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:30:27.326 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:30:27.326 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 813 ms
+[INFO ] 2020-08-15 14:30:27.642 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:30:27.694 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:30:28.274 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:30:28.292 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:30:28.294 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.113 seconds (JVM running for 2.684)
+[INFO ] 2020-08-15 14:34:16.228 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 21308 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:34:16.231 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:34:17.026 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:34:17.032 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:34:17.033 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:34:17.033 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:34:17.034 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:34:17.034 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:34:17.034 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:34:17.037 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:34:17.108 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:34:17.108 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 836 ms
+[INFO ] 2020-08-15 14:34:17.297 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:34:17.338 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:34:17.808 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:34:17.825 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:34:17.828 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.935 seconds (JVM running for 2.534)
+[INFO ] 2020-08-15 14:35:06.739 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:35:06.742 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:35:06.747 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 5 ms
+[INFO ] 2020-08-15 14:35:53.471 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 1444 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:35:53.474 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:35:54.197 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:35:54.203 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:35:54.204 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:35:54.204 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:35:54.205 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:35:54.205 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:35:54.205 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:35:54.208 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:35:54.276 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:35:54.276 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 763 ms
+[INFO ] 2020-08-15 14:35:54.464 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:35:54.503 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:35:54.990 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:35:55.008 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:35:55.010 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.857 seconds (JVM running for 2.461)
+[INFO ] 2020-08-15 14:37:53.045 [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:37:53.046 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:37:53.050 [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 4 ms
+[INFO ] 2020-08-15 14:51:44.572 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 12776 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 14:51:44.575 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 14:51:45.326 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-15 14:51:45.331 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:51:45.332 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-15 14:51:45.332 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-15 14:51:45.333 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-15 14:51:45.333 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-15 14:51:45.334 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-15 14:51:45.336 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-15 14:51:45.404 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-15 14:51:45.404 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 790 ms
+[INFO ] 2020-08-15 14:51:45.620 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 14:51:45.660 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 14:51:46.152 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-15 14:51:46.165 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-15 14:51:46.168 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 1.918 seconds (JVM running for 2.499)
+[INFO ] 2020-08-15 14:51:53.641 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:51:53.642 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-15 14:51:53.647 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 5 ms
+[INFO ] 2020-08-15 16:30:04.040 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 21576 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:30:04.042 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:30:05.382 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:30:05.461 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:30:06.280 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.679 seconds (JVM running for 3.482)
+[INFO ] 2020-08-15 16:30:06.649 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:30:06.921 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:30:06.929 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:30:06.930 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:32:09.351 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 13828 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:32:09.353 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:32:10.782 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:32:10.866 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:32:11.735 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.802 seconds (JVM running for 3.595)
+[INFO ] 2020-08-15 16:32:12.116 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:32:12.370 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:32:12.378 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:32:12.379 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:33:29.649 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 17436 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:33:29.651 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:33:31.018 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:33:31.095 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:33:31.922 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.698 seconds (JVM running for 3.491)
+[INFO ] 2020-08-15 16:33:32.303 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:33:32.671 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:33:32.680 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:33:32.681 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:35:12.441 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 11640 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:35:12.443 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:35:13.867 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:35:13.944 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:35:14.788 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.762 seconds (JVM running for 3.608)
+[INFO ] 2020-08-15 16:35:15.203 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:35:15.430 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:35:15.437 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:35:15.438 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:36:05.182 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 21804 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:36:05.185 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:36:06.541 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:36:06.635 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:36:07.457 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.689 seconds (JVM running for 3.485)
+[INFO ] 2020-08-15 16:36:07.867 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:36:08.115 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:36:08.123 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:36:08.124 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:36:17.639 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 22264 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:36:17.642 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:36:18.998 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:36:19.082 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:36:19.902 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.695 seconds (JVM running for 3.459)
+[INFO ] 2020-08-15 16:36:20.279 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:36:20.513 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:36:20.521 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:36:20.522 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:39:13.985 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 8040 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:39:13.988 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:39:15.419 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:39:15.518 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:39:16.361 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.86 seconds (JVM running for 3.692)
+[INFO ] 2020-08-15 16:39:16.752 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:39:17.003 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:39:17.010 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:39:17.011 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:40:06.578 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 3432 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:40:06.581 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:40:07.955 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:40:08.037 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:40:08.854 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.683 seconds (JVM running for 3.462)
+[INFO ] 2020-08-15 16:40:09.233 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:40:09.480 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:40:09.487 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:40:09.488 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:42:01.316 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 20756 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:42:01.319 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:42:02.651 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:42:02.732 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:42:03.561 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.727 seconds (JVM running for 3.513)
+[INFO ] 2020-08-15 16:42:03.945 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:42:04.191 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:42:04.198 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:42:04.199 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:42:23.311 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 22152 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:42:23.313 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:42:24.715 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:42:24.805 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:42:25.648 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.777 seconds (JVM running for 3.507)
+[INFO ] 2020-08-15 16:42:26.038 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:42:26.274 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:42:26.282 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:42:26.283 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:44:35.533 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 10464 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:44:35.536 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:44:36.914 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:44:36.998 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:44:37.825 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.727 seconds (JVM running for 3.556)
+[INFO ] 2020-08-15 16:44:38.211 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:44:38.472 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:44:38.480 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:44:38.482 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:44:56.798 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 20768 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:44:56.801 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:44:58.126 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:44:58.202 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:44:59.017 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.684 seconds (JVM running for 3.536)
+[INFO ] 2020-08-15 16:44:59.322 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-0} closing ...
+[INFO ] 2020-08-15 16:44:59.323 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:45:40.690 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 22104 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:45:40.693 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:45:42.007 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:45:42.087 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:45:42.892 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.623 seconds (JVM running for 3.402)
+[INFO ] 2020-08-15 16:45:43.210 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-0} closing ...
+[INFO ] 2020-08-15 16:45:43.211 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:47:49.898 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 18988 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:47:49.902 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:47:51.274 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:47:51.364 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:47:52.153 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.686 seconds (JVM running for 3.425)
+[INFO ] 2020-08-15 16:47:52.521 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:47:52.753 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:47:52.762 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:47:52.762 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:48:06.728 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 16916 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:48:06.730 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:48:08.182 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:48:08.257 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:48:09.093 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.835 seconds (JVM running for 3.629)
+[INFO ] 2020-08-15 16:48:09.461 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:48:09.723 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:48:09.730 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:48:09.731 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:50:23.065 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 2868 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-15 16:50:23.067 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-15 16:50:24.444 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-15 16:50:24.533 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-15 16:50:25.391 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 2.775 seconds (JVM running for 3.496)
+[INFO ] 2020-08-15 16:50:25.786 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-15 16:50:26.029 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-15 16:50:26.038 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-15 16:50:26.038 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'

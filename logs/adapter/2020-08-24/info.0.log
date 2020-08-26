@@ -1,0 +1,74 @@
+[INFO ] 2020-08-24 23:43:19.502 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 23928 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:43:19.505 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:43:55.746 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 2160 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:43:55.749 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:49:04.884 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 24540 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:49:04.886 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:53:36.669 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 6824 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:53:36.671 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:54:14.040 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 16552 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:54:14.052 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:54:14.854 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization(330) - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-08-24 23:54:15.347 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-24 23:54:15.376 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:54:15.376 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-24 23:54:15.377 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-24 23:54:15.378 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-24 23:54:15.378 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-24 23:54:15.379 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-24 23:54:15.435 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-24 23:54:15.545 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-24 23:54:15.545 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 1461 ms
+[INFO ] 2020-08-24 23:54:16.246 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-24 23:54:16.369 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-24 23:54:17.297 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(120) - Context refreshed
+[INFO ] 2020-08-24 23:54:17.355 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(123) - Found 1 custom documentation plugin(s)
+[INFO ] 2020-08-24 23:54:17.360 [main] s.d.s.w.s.ApiListingReferenceScanner.scan(44) - Scanning for api listing references
+[INFO ] 2020-08-24 23:54:17.570 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:54:17.595 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-24 23:54:17.598 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 3.939 seconds (JVM running for 4.528)
+[INFO ] 2020-08-24 23:55:03.948 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 20944 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:55:03.951 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:55:04.733 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization(330) - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-08-24 23:55:04.885 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-24 23:55:04.891 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:55:04.892 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-24 23:55:04.892 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-24 23:55:04.893 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-24 23:55:04.893 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-24 23:55:04.893 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-24 23:55:04.896 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-24 23:55:04.958 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-24 23:55:04.959 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 975 ms
+[INFO ] 2020-08-24 23:55:05.298 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-24 23:55:05.333 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-24 23:55:05.785 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(120) - Context refreshed
+[INFO ] 2020-08-24 23:55:05.794 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(123) - Found 1 custom documentation plugin(s)
+[INFO ] 2020-08-24 23:55:05.800 [main] s.d.s.w.s.ApiListingReferenceScanner.scan(44) - Scanning for api listing references
+[INFO ] 2020-08-24 23:55:05.946 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:55:05.961 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-24 23:55:05.964 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.337 seconds (JVM running for 2.917)
+[INFO ] 2020-08-24 23:55:27.377 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 24148 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-24 23:55:27.381 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-24 23:55:28.181 [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization(330) - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+[INFO ] 2020-08-24 23:55:28.332 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-24 23:55:28.338 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:55:28.339 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-24 23:55:28.339 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-24 23:55:28.340 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-24 23:55:28.340 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-24 23:55:28.341 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-24 23:55:28.343 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-24 23:55:28.409 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-24 23:55:28.409 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 989 ms
+[INFO ] 2020-08-24 23:55:28.749 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-24 23:55:28.782 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-24 23:55:29.228 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(120) - Context refreshed
+[INFO ] 2020-08-24 23:55:29.237 [main] s.d.s.w.p.DocumentationPluginsBootstrapper.start(123) - Found 1 custom documentation plugin(s)
+[INFO ] 2020-08-24 23:55:29.242 [main] s.d.s.w.s.ApiListingReferenceScanner.scan(44) - Scanning for api listing references
+[INFO ] 2020-08-24 23:55:29.384 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-24 23:55:29.398 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-24 23:55:29.401 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.342 seconds (JVM running for 2.911)
+[INFO ] 2020-08-24 23:55:43.372 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-24 23:55:43.373 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-24 23:55:43.388 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 15 ms

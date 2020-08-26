@@ -1,0 +1,29 @@
+[INFO ] 2020-08-20 23:02:19.214 [main] com.EXWUYA.test1.testMP.logStarting(55) - Starting testMP on LAPTOP-6PUGSM7H with PID 20012 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-20 23:02:19.217 [main] com.EXWUYA.test1.testMP.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-20 23:02:20.729 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-20 23:02:20.815 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-20 23:02:21.795 [main] com.EXWUYA.test1.testMP.logStarted(61) - Started testMP in 3.088 seconds (JVM running for 4.031)
+[INFO ] 2020-08-20 23:02:22.405 [main] c.alibaba.druid.pool.DruidDataSource.init(994) - {dataSource-1} inited
+[INFO ] 2020-08-20 23:02:22.751 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2029) - {dataSource-1} closing ...
+[INFO ] 2020-08-20 23:02:22.761 [SpringContextShutdownHook] c.alibaba.druid.pool.DruidDataSource.close(2101) - {dataSource-1} closed
+[INFO ] 2020-08-20 23:02:22.762 [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor.shutdown(208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-20 23:02:41.900 [main] com.EXWUYA.TestArea.logStarting(55) - Starting TestArea on LAPTOP-6PUGSM7H with PID 15884 (started by EXWUYA in F:\Maven JAVA PRO\Spring boot\Study_Springboot)
+[INFO ] 2020-08-20 23:02:41.903 [main] com.EXWUYA.TestArea.logStartupProfileInfo(651) - No active profile set, falling back to default profiles: default
+[INFO ] 2020-08-20 23:02:42.855 [main] o.s.b.w.e.tomcat.TomcatWebServer.initialize(92) - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 2020-08-20 23:02:42.862 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-20 23:02:42.863 [main] o.a.catalina.core.StandardService.log(173) - Starting service [Tomcat]
+[INFO ] 2020-08-20 23:02:42.863 [main] o.a.catalina.core.StandardEngine.log(173) - Starting Servlet engine: [Apache Tomcat/9.0.29]
+[INFO ] 2020-08-20 23:02:42.864 [main] o.a.c.core.AprLifecycleListener.log(173) - Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+[INFO ] 2020-08-20 23:02:42.865 [main] o.a.c.core.AprLifecycleListener.log(173) - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-08-20 23:02:42.865 [main] o.a.c.core.AprLifecycleListener.log(173) - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-08-20 23:02:42.903 [main] o.a.c.core.AprLifecycleListener.log(173) - OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+[INFO ] 2020-08-20 23:02:42.990 [main] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-08-20 23:02:42.991 [main] o.s.web.context.ContextLoader.prepareWebApplicationContext(284) - Root WebApplicationContext: initialization completed in 1052 ms
+[INFO ] 2020-08-20 23:02:43.208 [main] o.s.s.c.ThreadPoolTaskExecutor.initialize(171) - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-08-20 23:02:43.253 [main] o.s.b.a.w.s.WelcomePageHandlerMapping.<init>(58) - Adding welcome page template: index
+[INFO ] 2020-08-20 23:02:43.819 [main] o.a.coyote.http11.Http11NioProtocol.log(173) - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 2020-08-20 23:02:43.840 [main] o.s.b.w.e.tomcat.TomcatWebServer.start(204) - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 2020-08-20 23:02:43.843 [main] com.EXWUYA.TestArea.logStarted(61) - Started TestArea in 2.275 seconds (JVM running for 2.96)
+[INFO ] 2020-08-20 23:03:06.020 [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/].log(173) - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-08-20 23:03:06.022 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(525) - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-08-20 23:03:06.045 [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet.initServletBean(547) - Completed initialization in 23 ms

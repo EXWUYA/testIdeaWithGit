@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.EXWUYA.domian.User",
+      "sourceType": "com.EXWUYA.domian.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.EXWUYA.domian.User",
+      "defaultValue": 0
+    },
+    {
+      "name": "user.birthday",
+      "type": "java.util.Date",
+      "sourceType": "com.EXWUYA.domian.User"
+    },
+    {
+      "name": "user.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.EXWUYA.domian.User"
+    }
+  ],
+  "hints": []
+}
